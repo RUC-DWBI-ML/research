@@ -1,0 +1,6 @@
+{
+    "known_class": [0, 1],
+    "unknown_class": [2, 3, 4, 5, 6, 7],
+    "new_class": [8, 9],
+    "test_size": [2000, 2000, 2000]
+}
